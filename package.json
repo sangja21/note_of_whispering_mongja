@@ -1,0 +1,17 @@
+{
+  "name": "note_of_whispering_mongja",
+  "version": "0.0.1",
+  "description": "transcription project with whisperAPI",
+  "main": "index.js",
+  "repository": "https://github.com/sangja21/note_of_whispering_mongja.git",
+  "author": "sangja21 <ta7538@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "openai": "^4.85.3"
+  }
+}

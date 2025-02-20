@@ -1,0 +1,1 @@
+console.log("Whispering Mongja 프로젝트 시작!");
