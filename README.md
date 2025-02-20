@@ -1,7 +1,6 @@
 # note_of_whispering_mongja
 transcription project
 
-```markdown
 # Whispering Mongja
 
 Whispering Mongja는 OpenAI의 Whisper 모델을 사용하여 음성 파일을 텍스트로 변환하는 프로젝트입니다. 이 프로젝트는 음성 인식 API를 활용하여 다양한 언어의 음성을 텍스트로 변환하고, 변환된 텍스트를 `.txt` 파일로 저장하는 기능을 제공합니다.
