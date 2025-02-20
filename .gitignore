@@ -20,3 +20,4 @@ Thumbs.db
 
 # Exclude audio files
 src/audio/*
+src/transcription/*
