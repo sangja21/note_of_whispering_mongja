@@ -1,0 +1,2 @@
+# note_of_whispering_mongja
+transcription project
