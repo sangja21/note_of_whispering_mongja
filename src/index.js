@@ -1,4 +1,4 @@
-import { transcribeAudio } from './transcription';
+import { transcribeAudio } from './transcription.js';
 
 console.log("Whispering Mongja 프로젝트 시작!");
 
