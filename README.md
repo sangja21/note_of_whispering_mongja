@@ -1,10 +1,6 @@
 # note_of_whispering_mongja
 transcription project
 
-프로젝트를 시작하셨으니, 이제 프로젝트에 대한 설명을 담은 `README.md` 파일을 작성하는 것이 좋습니다. 아래는 기본적인 `README.md` 파일 예시입니다. 필요에 따라 프로젝트에 맞게 수정하면 됩니다.
-
-### `README.md` 예시:
-
 ```markdown
 # Whispering Mongja
 
